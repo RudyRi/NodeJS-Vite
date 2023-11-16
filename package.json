@@ -1,0 +1,19 @@
+{
+  "name": "nyan-nyan",
+  "version": "1.0.0",
+  "description": "Proyecto de practica",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RudyRi/NodeJS-Vite.git"
+  },
+  "author": "Rudy Rivera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RudyRi/NodeJS-Vite/issues"
+  },
+  "homepage": "https://github.com/RudyRi/NodeJS-Vite#readme"
+}
